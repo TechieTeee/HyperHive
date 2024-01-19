@@ -42,5 +42,11 @@ HyperHive introduces a novel approach to robotics coordination, enabling robots 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/TechieTeee/HyperHive.git
+2.
+```bash
+cd HyperHive
+npm install
+npm start
+
 
 
